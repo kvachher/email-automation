@@ -8,7 +8,7 @@ rec = 'ogdesai@gmail.com'
 
 subject = 'HELLO OM'
 body = """
-Hello to my dear friend Om. This email is being sent automatically with Python. You are a mottu.
+Hello to my dear friend Om. This email is being sent automatically with Python.
 """
 
 em = EmailMessage()
