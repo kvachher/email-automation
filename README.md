@@ -1,2 +1,2 @@
 # email-automation
-CSV interpretting and Automated Email Management
+CSV Reading and Automated Email Management
